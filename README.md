@@ -5,10 +5,11 @@
 ## 使用方法
 
 在 IntelliJ IDEA 中，提供将项目保存为模板的功能。\
-以 2019.3.2 版为例，将此项目拉取到本地并使用 IntelliJ IDEA 打开，然后选择 Tools -> Save Project as Template，\
-根据需要决定是否填充描述，保持最下面 Replace parameters with placeholders 前面的对勾，最后点击 OK 即可。
+以 2019.3.2 版为例，将此项目拉取到本地并使用 IntelliJ IDEA 打开，然后选择 Tools -> Save Project as Template，根据需要决定是否填充描述，保持最下面 Replace parameters with placeholders 前面的对勾，最后点击 OK 即可。
 
 下次创建项目时，选择 User-defined 就能看到自己保存的项目模板，输入名称即可，IntelliJ IDEA 会完成项目名相关的替换。
+
+20200201 经过测试新生成的项目 template-maven-project.iml 文件名称没有被替换需要手动替换，其他部分都正常。
 
 ## 目前未知的主要依赖
 
