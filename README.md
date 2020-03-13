@@ -11,10 +11,12 @@
 
 20200201 经过测试新生成的项目 template-maven-project.iml 文件名称没有被替换需要手动替换，其他部分都正常。
 
-## 目前未知的主要依赖
+## 目前主要依赖
 
 * spock 测试框架
 * slf4j
 * apache common lang3
 * fastjson
 * guava
+* groovy
+* scala
