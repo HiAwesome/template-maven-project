@@ -21,15 +21,15 @@
         <groovy-all.version>3.0.2</groovy-all.version>
         <cglib-nodep.version>3.3.0</cglib-nodep.version>
         <objenesis.version>3.1</objenesis.version>
-        <byte-buddy.version>1.10.8</byte-buddy.version>
+        <byte-buddy.version>1.10.9</byte-buddy.version>
         <gmavenplus-plugin.version>1.8.1</gmavenplus-plugin.version>
         <surefire-junit47.version>3.0.0-M4</surefire-junit47.version>
 
         <!-- common tool library -->
         <slf4j.version>1.7.30</slf4j.version>
         <lombok.version>1.18.12</lombok.version>
-        <apache.common.lang3.version>3.9</apache.common.lang3.version>
-        <fastjson.version>1.2.67</fastjson.version>
+        <apache.common.lang3.version>3.10</apache.common.lang3.version>
+        <fastjson.version>1.2.68</fastjson.version>
         <guava.version>28.2-jre</guava.version>
 
         <!-- maven plugins -->
