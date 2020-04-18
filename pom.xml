@@ -17,7 +17,7 @@
         <!-- spock testing framework -->
         <spock.scope>test</spock.scope>
         <spock-core.version>2.0-M2-groovy-3.0</spock-core.version>
-        <junit-jupiter.version>5.6.1</junit-jupiter.version>
+        <junit-jupiter.version>5.6.2</junit-jupiter.version>
         <groovy-all.version>3.0.2</groovy-all.version>
         <cglib-nodep.version>3.3.0</cglib-nodep.version>
         <objenesis.version>3.1</objenesis.version>
@@ -26,7 +26,7 @@
         <surefire-junit47.version>3.0.0-M4</surefire-junit47.version>
 
         <!-- common tool library -->
-        <slf4j.version>1.7.30</slf4j.version>
+        <slf4j.version>2.0.0-alpha1</slf4j.version>
         <lombok.version>1.18.12</lombok.version>
         <apache.common.lang3.version>3.10</apache.common.lang3.version>
         <fastjson.version>1.2.68</fastjson.version>
